@@ -1,8 +1,8 @@
 <p>
   <a href="https://clinx.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-dark.svg">
-      <img src="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-light.svg" alt="ClinX" height="28">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-dark.svg">
+      <img src="https://raw.githubusercontent.com/WillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-light.svg" alt="ClinX" height="28">
     </picture>
   </a>
 </p>
@@ -135,9 +135,9 @@ The command is `opais`, after OPAIS, the registry's own name (the 340B Office of
 
 | Repository | What it is |
 |---|---|
-| [clinx-340b](https://github.com/VVillBerchtold/clinx-340b) | The dataset of state 340B filings |
+| [clinx-340b](https://github.com/WillBerchtold/clinx-340b) | The dataset of state 340B filings |
 | clinx-radar (you are here) | What changed in the federal registry |
-| [clinx-org](https://github.com/VVillBerchtold/clinx-org) | The website |
+| [clinx-org](https://github.com/WillBerchtold/clinx-org) | The website |
 
 ## Read more
 
